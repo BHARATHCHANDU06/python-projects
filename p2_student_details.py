@@ -1,0 +1,12 @@
+name=input("Enter the name:")
+age=int(input("Enter the age:"))
+branch=input("Enter the branch:")
+college=input("Enter the college name:")
+cgpa=float(input("Enter the cgpa:"))
+
+print("\n---STUDENT DETAILS---")
+print("Name  :",name)
+print("Age :",age)
+print("Branch:",branch)
+print("College:",college)
+print("CGPA   :",cgpa)
